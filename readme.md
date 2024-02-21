@@ -161,33 +161,7 @@ SHORTS BUCKETS
 
 
 
-FORMULA 
 
-Step 1 - TITLES
-
-1. is it a SAQ (clickbait video) or FAQ (title it by the question)
-2. Casing by professionalism
-3. Uppercase key word
-4. Less than 50 characters
-
-Step 2 - VIDEO
-
-1. Is my video education, inspiration or entertaining?
-2. Why would my target audience want to watch this video?
-    - try to make these as visceral as possible
-    - live the experience that they want and really try to feeeeel them
-3. What do they want from the video?
-4. (Optional) why should they watch my video?
-
-Step 3 - HOOK
-
-1. First 3-8 seconds
-    - Hook + meet expectation of viewer
-    - Hook satisfies the why from above
-2. Foreshadow
-    - How is the video going to deliver what they want from the video (chapters, steps, guide, tutorials, information, understanding, frameworks, lessons ...)
-    - so that by the end... (deliver what they want)
-3. why they should watch your video (could be anything - education (i am credible i have lived experience with their problem and solution))
 
 
 
@@ -208,7 +182,12 @@ One trick for 247% better websites
 
 Made the same mistake on the markdown video
 
+COURSES (GETTING REVIEWS)
+One technique that I use to get good reviews is scan my student course completion records looking for students who have completed 100% of the course but not left a review.  To those students I send a Udemy message asking them to please leave a review.  Note that you should not ask for or even mention a five star review, just remind them to leave a review.  In my message I include a link to the course and brief instructions on how to leave a review to make things easy.
 
+ 
+
+Students who have completed 100% of your course are more likely to leave good reviews.  You can delve deeper into the completion percentage, but I wouldn't go any lower than 90% in case there's a reason the student didn't complete the course.
 
 
 THE PROCESS 
@@ -235,4 +214,33 @@ Project / process Videos
     - Tell them anyone can do it
     - Ill walk them through every step of the way, and explain everything we do so that you understand the project, and can modify it and feel confident making your own
 
-3. Im james, and i’ve taught thousands of people how to code through this channel If you’re new here, make sure to subscribe as I upload new learn to code videos every week Now let’s jump in and get started
+3. My name is James and i’ve taught thousands of people how to code through this channel. If you’re new here, smash the subscribe button as I upload new learn to code videos every week.
+
+
+FORMULA 
+
+Step 1 - TITLES
+
+1. is it a SAQ (clickbait video) or FAQ (title it by the question)
+2. Casing by professionalism
+3. Uppercase key word
+4. Less than 50 characters
+
+Step 2 - VIDEO
+
+1. Is my video education, inspiration or entertaining?
+2. Why would my target audience want to watch this video / why am i making the video?
+    - try to make these as visceral as possible
+    - live the experience that they want and really try to feeeeel them
+3. What do they want from the video?
+4. (Optional) why should they watch my video?
+
+Step 3 - HOOK
+
+1. First 3-8 seconds
+    - Hook + meet expectation of viewer
+    - Hook satisfies the why from above
+2. Foreshadow
+    - How is the video going to deliver what they want from the video (chapters, steps, guide, tutorials, information, understanding, frameworks, lessons ...)
+    - so that by the end... (deliver what they want)
+3. why they should watch your video (could be anything - education (i am credible i have lived experience with their problem and solution))
